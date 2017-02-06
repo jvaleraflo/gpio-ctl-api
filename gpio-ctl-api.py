@@ -1,7 +1,7 @@
 from flask import Flask, request
 from flask_restful import Resource, Api
 
-from RPi.GPIO as GPIO
+import RPi.GPIO as GPIO
 
 
 app = Flask(__name__)
