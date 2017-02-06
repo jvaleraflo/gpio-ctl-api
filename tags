@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+TodoSimple	gpio-ctl-api.py	/^class TodoSimple(Resource):$/;"	kind:class	line:12
+api	gpio-ctl-api.py	/^api = Api(app)$/;"	kind:variable	line:8
+app	gpio-ctl-api.py	/^app = Flask(__name__)$/;"	kind:variable	line:7
+get	gpio-ctl-api.py	/^    def get(self, todo_id):$/;"	kind:member	line:13
+gpio-ctl-api.py	gpio-ctl-api.py	1;"	kind:file	line:1
+gpio-ctl.py	gpio-ctl.py	1;"	kind:file	line:1
+put	gpio-ctl-api.py	/^    def put(self, todo_id):$/;"	kind:member	line:16
+todos	gpio-ctl-api.py	/^todos = {}$/;"	kind:variable	line:10
